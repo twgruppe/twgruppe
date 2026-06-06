@@ -2,7 +2,7 @@
 
 # Welcome to Trezorwachtum
 
-<p align="center">
+<p align="left">
   <a href="https://twgruppe.com">🌐 Website</a> •
   <a href="https://twgruppe.com">📈 Trading Solutions</a> •
   <a href="https://twgruppe.com">💼 Investment Opportunities</a>
