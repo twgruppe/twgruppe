@@ -1,8 +1,3 @@
-# 🛡️ Trezorwachtum | Secure Trading & Investment Solutions
-
-<p align="center">
-  <img src="logo.png" alt="Trezorwachtum Logo" width="180"/>
-</p>
 
 <p align="center">
   <a href="https://twgruppe.com">🌐 Website</a> •
