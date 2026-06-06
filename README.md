@@ -1,6 +1,6 @@
 <div align="center">
 
-# AWelcome to Trezorwachtum
+# Welcome to Trezorwachtum
 
 <p align="center">
   <a href="https://twgruppe.com">🌐 Website</a> •
