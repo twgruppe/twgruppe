@@ -1,3 +1,4 @@
+# Welcome to Trezorwachtum
 
 <p align="center">
   <a href="https://twgruppe.com">🌐 Website</a> •
@@ -6,8 +7,6 @@
 </p>
 
 ---
-
-# Welcome to Trezorwachtum
 
 **Trezorwachtum** is your trusted partner in secure trading and investment solutions. We deliver innovative strategies and reliable services, connecting businesses to global opportunities with confidence.
 
